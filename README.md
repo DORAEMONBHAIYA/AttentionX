@@ -59,6 +59,10 @@ AttentionX automatically:
 
 ---
 
+## 🎥 Demo
+
+[Watch Demo Video](https://github.com/DORAEMONBHAIYA/AttentionX/blob/main/AttentionX-Demo.mp4)
+
 ## 📂 Project Structure
 
 ```
