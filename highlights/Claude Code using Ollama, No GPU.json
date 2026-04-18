@@ -1,0 +1,42 @@
+[
+    {
+        "start": 108.88,
+        "end": 110.64,
+        "text": "to use it for free, right?",
+        "sentiment_score": 2.5530000000000004,
+        "keyword_score": 0,
+        "total_score": 6.85
+    },
+    {
+        "start": 194.08,
+        "end": 197.04,
+        "text": "I trapped in a prompt here there, how can I help you?",
+        "sentiment_score": 0.8895,
+        "keyword_score": 0,
+        "total_score": 5.89
+    },
+    {
+        "start": 97.0,
+        "end": 102.96,
+        "text": "And here you can see that it is giving me all the commands also, how to get started Claude.",
+        "sentiment_score": 1.7000000000000002,
+        "keyword_score": 0,
+        "total_score": 5.7
+    },
+    {
+        "start": 186.44,
+        "end": 190.84,
+        "text": "of kimi k2.5 one of the best open source model for free.",
+        "sentiment_score": 4.088,
+        "keyword_score": 0,
+        "total_score": 5.09
+    },
+    {
+        "start": 249.32,
+        "end": 253.28,
+        "text": "for free with the most powerful coding agent.",
+        "sentiment_score": 3.7504999999999997,
+        "keyword_score": 0,
+        "total_score": 4.75
+    }
+]
